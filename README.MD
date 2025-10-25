@@ -1,38 +1,60 @@
-# Hi, I'm Saqib Ayaz 👋
+<!-- Profile Header -->
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4CAF50;">Saqib Ayaz</span>
+</h1>
 
-**MERN Stack Developer** | MongoDB · Express · React · Node.js  
-Building clean, responsive user interfaces and rock-solid backends.
-
-
----
-
-## 🧰 Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<h3 align="center">
+  🚀 MERN Stack Developer | 💻 Software Engineering Student at MUET
+</h3>
 
 ---
 
-## 🔭 Current Work
-- Building **Farmer Marketplace** (MERN) — auth, product listings, cart & checkout.
-- Improving deployment & CI/CD (Vercel / Render / GitHub Actions).
-
-## 💻 Notable Projects
-- **Farmer Marketplace** — Full-stack marketplace with user auth and checkout.  
-- **Mini Social Media** — Posts, likes, edits, profile pages.  
-
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=I+am+a+MERN+Stack+Developer!;Software+Engineering+Student+👨‍💻;Building+Cool+Full-Stack+Projects!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📫 Contact
-- Email: ayazs4314@gmail.com  
-- GitHub: [github.com/Saqibayaz4314](https://github.com/Saqibayaz4314)
+### 🧠 About Me
+
+- 🎓 I'm currently pursuing **Software Engineering** at **MUET**  
+- 💡 I love creating **dynamic web apps** using the **MERN Stack**  
+- 💼 Projects I’ve built:  
+  - 🛒 Full-Stack **E-commerce Website**  
+  - 🌾 **Farmer Marketplace**  
+  - 💬 Mini **Social Media App**  
+- 📫 Reach me at: **ayazs4314@gmail.com**  
+- 🌐 My GitHub: [Saqibayaz4314](https://github.com/Saqibayaz4314)
 
 ---
 
-> “Code. Learn. Build.” 🚀
+### ⚙️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saqibayaz4314&show_icons=true&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saqibayaz4314&theme=react&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="mailto:ayazs4314@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Saqibayaz4314"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saqibayaz4314&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
