@@ -1,8 +1,19 @@
+```
+
+███████╗  █████╗   ██████╗ ██╗ ██████╗      █████╗ ██╗   ██╗  █████╗  ███████╗
+██╔════╝ ██╔══██╗ ██╔═══██╗ ██║ ██╔══██╗    ██╔══██╗ ╚██╗ ██╔╝ ██╔══██╗ ╚══███╔╝
+███████╗ ███████║ ██║   ██║ ██║ ██████╔╝    ███████║  ╚████╔╝  ███████║   ███╔╝
+╚════██║ ██╔══██║ ██║▄▄ ██║ ██║ ██╔══██╗    ██╔══██║   ╚██╔╝   ██╔══██║  ███╔╝
+███████║ ██║  ██║ ╚██████╔╝ ██║ ██████╔╝    ██║  ██║    ██║    ██║  ██║ ███████╗
+╚══════╝ ╚═╝  ╚═╝  ╚══▀▀═╝ ╚═╝ ╚═════╝      ╚═╝  ╚═╝    ╚═╝    ╚═╝  ╚═╝ ╚══════╝
+
+  SOFTWARE ENGINEER · FULL-STACK · DEVOPS · CLOUD
+  Engineering Lead @ Techverse Inventra | BSc SE (Final Year) @ MUET Szab
+  status: open-to-work | podium: 1x Winner · 2x Runner-up
+
+```
+
 <div align="center">
-
-<img src="banner.svg" width="100%" alt="Saqib Ayaz — Software Engineer · Full-Stack · DevOps"/>
-
-<br/><br/>
 
 [![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B%20Years-58a6ff?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
 [![Location](https://img.shields.io/badge/LOCATION-Pakistan-3fb950?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
