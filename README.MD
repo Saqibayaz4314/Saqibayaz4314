@@ -15,22 +15,27 @@
 
 <div align="center">
 
-[![Experience](https://img.shields.io/badge/EXPERIENCE-2%2B%20Years-58a6ff?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
+[![Experience](https://img.shields.io/badge/EXPERIENCE-3%2B%20Years-58a6ff?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
+[![Projects](https://img.shields.io/badge/PROJECTS-15%2B-8957e5?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
 [![Location](https://img.shields.io/badge/LOCATION-Pakistan-3fb950?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
-[![Open To Work](https://img.shields.io/badge/STATUS-Open%20To%20Work-FFD700?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
+[![Status](https://img.shields.io/badge/STATUS-Open%20To%20Work-FFD700?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
 
 </div>
 
 Software engineer who ships — full-stack products, cloud infrastructure, and automated quality. Currently leading engineering at **Techverse Inventra** while completing my final year of Software Engineering at **MUET Szab University**. I design systems that are simple, observable, and built to scale.
 
+| 📍 Base | 🎓 Education | 🌐 Website |
+|---|---|---|
+| Khairpur, Sindh, Pakistan | BSc Software Engineering · MUET Szab | [saqibayaz.tech](https://saqibayaz.tech) |
+
 ---
 
-## <img width="30" src="https://img.shields.io/badge/01-58a6ff?style=flat-square"/> ▎ EXPERIENCE
+## 💼 EXPERIENCE
 
 | Period | Role | Highlights |
 |---|---|---|
-| `2025 — Present` | **Engineering Lead** · Techverse Inventra | System architecture, full-stack pipelines, code reviews, mentoring |
-| `Jul — Oct 2026` | **DevOps Intern** · Arcana Info | Linux administration, networking, Docker, Kubernetes orchestration |
+| `2023 — Present` | **Engineering Lead** · Techverse Inventra | System architecture, full-stack pipelines, code reviews, mentoring |
+| `Jul — Oct 2025` | **DevOps Intern** · Arcana Info | Linux administration, networking, Docker, Kubernetes orchestration |
 | `Dec 2025 — May 2026` | **Web Developer** · AveronX | React frontends, REST API integration, rendering performance |
 | `Dec 2025 — Mar 2026` | **SQA Automation Intern** · 99 Technologies | Cypress E2E suites, Postman API validation, regression coverage |
 | `Sep 2025 — May 2026` | **Content Writer** · Hult Prize | Pitch decks, newsletters, campaign storytelling |
@@ -38,12 +43,7 @@ Software engineer who ships — full-stack products, cloud infrastructure, and a
 
 ---
 
-## <img width="30" src="https://img.shields.io/badge/02-58a6ff?style=flat-square"/> ▎ SELECTED WORK
-
-### Open Source
-
-[![CIRO — Crisis Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=Saqibayaz4314&repo=CIRO-AISeekho2026-Hackathon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&description_lines_count=2)](https://github.com/Saqibayaz4314/CIRO-AISeekho2026-Hackathon)
-[![Farmer Marketplace](https://github-readme-stats.vercel.app/api/pin/?username=Saqibayaz4314&repo=farmer-marketplace&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&description_lines_count=2)](https://github.com/Saqibayaz4314/farmer-marketplace)
+## 🗂️ SELECTED WORK
 
 ### Production & Client Builds
 
@@ -74,7 +74,7 @@ Production invoicing — customer/supplier payments, due amounts, transaction hi
 <td width="50%" valign="top">
 
 **ScaleOps — AWS Auto Scaling Command Center**<br/>
-Read-only AWS dashboard: live ASG/ALB/CloudWatch metrics, AES-256-GCM encrypted IAM keys, scaling events, k6 load-test driven.
+Read-only AWS dashboard: live ASG/ALB/CloudWatch metrics, AES-256-GCM encrypted IAM keys, k6-driven load tests.
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/AWS_SDK-232F3E?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
@@ -92,21 +92,45 @@ Real-time hospital & specialist routing for the critical first hour — geo sear
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+[**Farmer Marketplace**](https://github.com/Saqibayaz4314/ThreeFoldGenius_FarmerMarketPlace)<br/>
+Full-stack marketplace connecting farmers to buyers — listings, cart, orders, auth, plus a companion e-commerce system.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117"/>
+
+</td>
+<td width="50%" valign="top">
+
+**H2O — Crisis Intelligence**<br/>
+Multi-agent AI system for real-time crisis detection and response — built at AISeekho2026 × Google for Developers Hackathon.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=0d1117"/>
+
+</td>
+</tr>
 </table>
+
+[**View all repositories →**](https://github.com/Saqibayaz4314?tab=repositories)
 
 ---
 
-## <img width="30" src="https://img.shields.io/badge/03-58a6ff?style=flat-square"/> ▎ TECH STACK
+## 🛠️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter&theme=dark&perline=6" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css&theme=dark&perline=6" alt="Languages"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,firebase&theme=dark&perline=6" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,nodejs,express&theme=dark&perline=6" alt="Frameworks"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,terraform,aws,githubactions&theme=dark&perline=7" alt="DevOps"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,fastapi,docker,kubernetes&theme=dark&perline=6" alt="Backend & Infra"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=cypress,postman,git&theme=dark&perline=3" alt="QA"/>
+<img src="https://skillicons.dev/icons?i=linux,nginx,terraform,aws,githubactions,cypress,postman,git&theme=dark&perline=8" alt="DevOps & QA"/>
 
 <br/><br/>
 
@@ -116,51 +140,52 @@ Real-time hospital & specialist routing for the critical first hour — geo sear
 ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+<br/>
+
+[![Focus](https://img.shields.io/badge/FOCUS-Kubernetes%20·%20Terraform%20·%20AI%20Integrations-58a6ff?style=flat-square&labelColor=161b22)](https://github.com/Saqibayaz4314)
+
 </div>
 
 ---
 
-## <img width="30" src="https://img.shields.io/badge/04-58a6ff?style=flat-square"/> ▎ HONORS & ACHIEVEMENTS
+## 🏆 HONORS & ACHIEVEMENTS
 
 | Recognition | Context |
 |---|---|
-| `1st Place` | **Openhack 26** — ATLAS Flood Digital Twin (PostGIS + Dijkstra on AWS EKS) |
-| `1st Runner-up` | **IET TechFest 2026** — Golden Hour Navigator (Team Lead) |
-| `1st Runner-up` | **Hacktoberfest** — ScaleOps Auto Scaling Command Center |
+| `1st Place` | Openhack 26 — ATLAS Flood Digital Twin (PostGIS + Dijkstra on AWS ECS) |
+| `1st Runner-up` | IET TechFest 2026 — Golden Hour Navigator (Team Lead) |
+| `1st Runner-up` | Hacktoberfest — ScaleOps Auto Scaling Command Center |
 | `Gold Tier` | AISeekho2026 — Top 50 of thousands of participants across Pakistan |
-| `ACT AI` | PM's Youth Programme — Top ~6,000 of 80,000+ applicants |
+| `ACT AI` | PM's Youth Programme — Top ~4,000 of 80,000+ applicants |
 | `Commercial Win` | Production invoicing system sold to a paying client |
 
 ---
 
-## <img width="30" src="https://img.shields.io/badge/05-58a6ff?style=flat-square"/> ▎ GITHUB ACTIVITY
+## 📈 GITHUB ACTIVITY
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saqibayaz4314&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github)](https://github.com/Saqibayaz4314)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saqibayaz4314&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)](https://github.com/Saqibayaz4314)
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saqibayaz4314&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://github.com/Saqibayaz4314)
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Saqibayaz4314&theme=darkhub&no-frame=true&margin-w=8&column=6)](https://github.com/Saqibayaz4314)
-
-<br/>
-
 [![Contribution Graph](https://ghchart.rshah.org/58a6ff/Saqibayaz4314)](https://github.com/Saqibayaz4314)
+
+<br/>
+
+[![Contribution Timeline](https://github-readme-activity-graph.vercel.app/graph?username=Saqibayaz4314&bg_color=0d1117&color=8b949e&line=58a6ff&point=8957e5&area=true&hide_border=true&radius=4)](https://github.com/Saqibayaz4314)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Saqibayaz4314&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=8B949E&dates=8B949E)](https://github.com/Saqibayaz4314)
 
 </div>
 
 ---
 
-## <img width="30" src="https://img.shields.io/badge/06-58a6ff?style=flat-square"/> ▎ CONNECT
+## 🔗 CONNECT
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/saqibdev24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibdev24@gmail.com)
+[![Gmail](https://img.shields.io/badge/ayaz4314%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz4314@gmail.com)
+&nbsp;
+[![Website](https://img.shields.io/badge/saqibayaz.tech-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://saqibayaz.tech)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Saqibayaz4314-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saqibayaz4314)
 &nbsp;
