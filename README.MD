@@ -26,7 +26,7 @@ Software engineer who ships — full-stack products, cloud infrastructure, and a
 
 | 📍 Base | 🎓 Education | 🌐 Website |
 |---|---|---|
-| Khairpur, Sindh, Pakistan | BSc Software Engineering · MUET Szab | [saqibayaz.tech](https://saqibayaz.tech) |
+| Khairpur, Sindh, Pakistan | BSc Software Engineering · MUET Szab | [saqibayaz.tech](https://saqibdev.tech) |
 
 ---
 
