@@ -8,7 +8,7 @@
 ╚══════╝ ╚═╝  ╚═╝  ╚══▀▀═╝ ╚═╝ ╚═════╝      ╚═╝  ╚═╝    ╚═╝    ╚═╝  ╚═╝ ╚══════╝
 
   SOFTWARE ENGINEER · FULL-STACK · DEVOPS · CLOUD
-  Engineering Lead @ Techverse Inventra | BSc SE (Final Year) @ MUET Szab
+  Engineering Lead @ Techverse Inventra | BE SE (Final Year) @ MUET Szab
   status: open-to-work | podium: 1x Winner · 2x Runner-up
 
 ```
@@ -185,7 +185,7 @@ Multi-agent AI system for real-time crisis detection and response — built at A
 
 [![Gmail](https://img.shields.io/badge/ayaz4314%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz4314@gmail.com)
 &nbsp;
-[![Website](https://img.shields.io/badge/saqibayaz.tech-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://saqibayaz.tech)
+[![Website](https://img.shields.io/badge/saqibdev.tech-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://saqibdev.tech)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/Saqibayaz4314-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saqibayaz4314)
 &nbsp;
