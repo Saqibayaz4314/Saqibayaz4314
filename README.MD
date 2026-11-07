@@ -183,7 +183,7 @@ Multi-agent AI system for real-time crisis detection and response — built at A
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/ayaz4314%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaz4314@gmail.com)
+[![Gmail](https://img.shields.io/badge/saqibdev24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibdev24@gmail.com)
 &nbsp;
 [![Website](https://img.shields.io/badge/saqibdev.tech-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://saqibdev.tech)
 &nbsp;
